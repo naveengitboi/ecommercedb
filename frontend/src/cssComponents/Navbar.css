@@ -1,0 +1,25 @@
+.navbar
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 1rem 0;
+    background-color: rgb(230, 230, 230);
+}
+
+.navLinks
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.navLinks li 
+{
+    padding: .85rem;
+    list-style-type: none;
+    font-size: 1.25rem;
+}
+.navLinks li a 
+{
+    text-decoration: none;
+}
